@@ -168,7 +168,7 @@ Course: Final Year Project – Semester 1
 
 ## 🧩 How This Implements the Research Paper
 
-This project operationalizes the cryptographic and architectural model proposed in *[Professor’s Paper Title]*.  
+This project operationalizes the cryptographic and architectural model proposed in *Blockchain-assisted Authentication and Key Agreement Scheme for Fog-based Smart Grid (Tomar & Tripathi, 2021)*.  
 It implements:
 - **Secure key establishment (X25519 + HKDF)** for each device link,  
 - **Authenticated encryption (ChaCha20-Poly1305)** for lightweight, efficient data protection,  
