@@ -1,0 +1,58 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.tmp
+*.log
+*.sqlite3
+*.db
+*.db-journal
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+
+# === Virtual Environment ===
+venv/
+.venv/
+env/
+ENV/
+*.env
+
+# === PyCharm / IDE ===
+.idea/
+.vscode/
+*.iml
+
+# === OS files ===
+.DS_Store
+Thumbs.db
+
+# === Build / Distribution ===
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# === Test & Cache ===
+.cache/
+pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# === Logs ===
+logs/
+*.out
+*.err
+
+# === Temporary or Example Data ===
+data/
+*.csv
+*.json
+*.bak
+
+# === Streamlit Cache ===
+.streamlit/
